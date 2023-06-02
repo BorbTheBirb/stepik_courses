@@ -1,2 +1,2 @@
 # stepik_courses
-Hoho, hahaaaaaaaaa
+Репа для заданий по курсу по селениуму https://stepik.org/course/575/
